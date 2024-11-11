@@ -5,6 +5,8 @@ The Star Shower project is an engaging visual animation that creates a dynamic, 
 
 
 ## Screenshots
+![image](https://github.com/user-attachments/assets/38fb71b0-a6db-4e87-9d95-da3a6b276d29)
+
 
 ## Tech Stack
 HTML Canvas | JavaScript | Node.js
